@@ -1,0 +1,87 @@
+.title {
+  font-size: 64px;
+  text-align: center;
+  font-weight: 900;
+}
+.imageSize {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.centeraName{
+    font: size 50px; ;
+    font-weight: 900;
+    text-align: center;
+    
+}
+
+
+.firstWord {
+  font-size: 25px;
+  font-weight: 900;
+}
+.secondWord {
+  color: red;
+  font-size: 25px;
+  font-weight: 100;
+}
+.titleOfFirstPharagraf {
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+}
+
+.firstWord {
+  font-size: 25px;
+  font-weight: 900;
+}
+.secondWord {
+  color: red;
+  font-size: 25px;
+  font-weight: 100;
+}
+.skills {
+  font-size: 25px;
+  font-weight: 900;
+}
+.programingLanguages {
+  color: red;
+  font-size: 25px;
+  font-weight: 100;
+}
+.secondConatiner {
+  background-color: aquamarine;
+}
+.titleOfSecondPharagraf {
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+}
+.secondWord {
+  color: red;
+  font-size: 25px;
+  font-weight: 100;
+}
+.thirdContainer {
+  background-color: aquamarine;
+}
+.diffWordOne {
+  color: blue;
+}
+.diffWordTwo {
+  color: blue;
+}
+.forthContainer {
+  background-color: aquamarine;
+}
+.titleOfThirdPharagrapf {
+  font-size: 40px;
+  color: black;
+  font-weight: 900;
+}
+.secondWord {
+  color: red;
+  font-size: 25px;
+  font-weight: 100;
+}
